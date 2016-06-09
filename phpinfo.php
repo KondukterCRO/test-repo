@@ -5,4 +5,5 @@ if (3>5){
 }else{
 	echo 'true';
 }
+echo 'aaaa';
 ?>
